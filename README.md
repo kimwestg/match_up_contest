@@ -51,7 +51,7 @@
 --- 
 
 ## 🛠 사용 기술 스택
-- **언어/프레임워크**: Python (Pandas, NumPy, scikit-learn, SciPy, Matplotlib, Seaborn)  
+- **언어/프레임워크**: R(ANOVA), Python (Pandas, NumPy, scikit-learn, SciPy, Matplotlib, Seaborn)  
 - **환경**: Jupyter Notebook  
 - **버전 관리**: Git, GitHub  
 
