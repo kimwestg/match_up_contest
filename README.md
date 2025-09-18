@@ -11,7 +11,7 @@
 ---
 
 ## 🗂 데이터 정보
-- **데이터 출처**: [Kaggle - Heart Disease UCI](https://www.kaggle.com/ronitf/heart-disease-uci)  
+- **데이터 출처**: [Kaggle - Heart Disease Dataset](https://www.kaggle.com/datasets/yasserh/heart-disease-dataset)  
 - **주요 특징(Features)**  
   - 나이(Age), 성별(Sex), 혈압(Blood Pressure), 콜레스테롤(Cholesterol), 심박수(Max Heart Rate), 운동 유발 협심증(Exercise Induced Angina) 등  
 - **타깃(Target)**  
